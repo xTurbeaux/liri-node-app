@@ -11,10 +11,15 @@
     "url": "git+https://github.com/xTurbeaux/liri-node-app.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Aaron Mayhew",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/xTurbeaux/liri-node-app/issues"
   },
-  "homepage": "https://github.com/xTurbeaux/liri-node-app#readme"
+  "homepage": "https://github.com/xTurbeaux/liri-node-app#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "node-spotify-api": "^1.0.7",
+    "twitter": "^1.7.1"
+  }
 }
